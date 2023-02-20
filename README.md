@@ -1,4 +1,4 @@
-Multi-Step Django Form
+**Multi-Step Django Form**
 This is a Django project that demonstrates how to build a multi-step form using Django's form wizard. The form consists of three steps:
 
 Personal information (name, email)
